@@ -8,17 +8,17 @@ I also want to make tools to help me write these at a higher level and put them 
 <b>step 1:</b><br>
 <img src="instructions/step0.png" width="50%" height="50%"/> 
 <b>step 2:</b><br>
-<img src="instructions/step1.png"/>
+<img src="instructions/step1.png" width="50%" height="50%"/>
 <b>step 3:</b><br>
-<img src="instructions/step2.png"/>
+<img src="instructions/step2.png" width="50%" height="50%"/>
 <b>step 4:</b><br>
-<img src="instructions/step3.png"/>
+<img src="instructions/step3.png" width="50%" height="50%"/>
 <b>step 5:</b><br>
-<img src="instructions/step4.png"/>
+<img src="instructions/step4.png" width="50%" height="50%"/>
 <b>step 6:</b><br>
-<img src="instructions/step5.png"/>
+<img src="instructions/step5.png" width="50%" height="50%"/>
 <b>step 7:</b><br>
-<img src="instructions/step6.png"/>
+<img src="instructions/step6.png" width="50%" height="50%"/>
 <br>
 <h2>How to build your own (TBA):</h2>
 

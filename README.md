@@ -20,6 +20,3 @@ I also want to make tools to help me write these at a higher level and put them 
 <b>step 7:</b><br>
 <img src="instructions/step6.png" width="50%" height="50%"/>
 <br>
-<h2>How to build your own (TBA):</h2>
-
-<h2>Resources:</h2>

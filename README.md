@@ -4,7 +4,7 @@ These are made with a mix of reading a opcode table and writing in HxD such as f
 case of colorful.img.
 I also want to make tools to help me write these at a higher level and put them here.
 <br>
-<u><h3>How to load one</h1></u>
+<h2>How to load one:</h2>
 <b>step 1:</b><br>
 <b>step 2:</b><br>
 <b>step 3:</b><br>
@@ -13,4 +13,4 @@ I also want to make tools to help me write these at a higher level and put them 
 <b>step 6:</b><br>
 <b>step 7:</b><br>
 <br>
-<u><h3>How to build your own (TBA)</h3></u>
+<h2>How to build your own (TBA)</h2>

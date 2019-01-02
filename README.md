@@ -6,7 +6,7 @@ I also want to make tools to help me write these at a higher level and put them 
 <br>
 <h2>How to load one:</h2>
 <b>step 1:</b><br>
-<img src="step0.png"/> 
+<img src="instructions/step0.png"/> 
 <b>step 2:</b><br>
 <img src="step1.png"/>
 <b>step 3:</b><br>

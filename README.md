@@ -7,7 +7,7 @@ I also want to make tools to help me write these at a higher level and put them 
 <h2>How to load one:</h2>
 <b>step 1:</b><br>
 <img src="instructions/step0.png" width="50%" height="50%"/> 
-<b style="font-size: 18">step 2:</b><br>
+<b><u>step 2:</u></b><br>
 <img src="instructions/step1.png" width="50%" height="50%"/>
 <b>step 3:</b><br>
 <img src="instructions/step2.png" width="50%" height="50%"/>
